@@ -8,43 +8,43 @@ Contact and Login Pages are not route. But Users' choice they can Rout them on t
 
 To Run the Program :  [Read Me.pdf](https://github.com/user-attachments/files/16961245/Read.Me.pdf)
 
-### **Admin Control Panel:**
+# **Admin Control Panel:**
 
 ![Screenshot (195)](https://github.com/user-attachments/assets/51030ce2-cf13-443c-892b-99681f85893a)
 
-### **Movie Management:**
+# **Movie Management:**
 
 ![Screenshot (208)](https://github.com/user-attachments/assets/955e8acc-24b0-43e1-a1fd-ecc0869ba705)
 
-###  **Add Movie:**
+#  **Add Movie:**
 
 ![Screenshot (207)](https://github.com/user-attachments/assets/6729dd5f-f66c-41df-b8f2-d72498ccf544)
 
-### **Home Page:**
+# **Home Page:**
 
 ![Screenshot (210)](https://github.com/user-attachments/assets/4377187b-b81a-4401-bc8a-1ead8370a739)
 
-### **Movie Selection:**
+# **Movie Selection:**
 
 ![Screenshot (211)](https://github.com/user-attachments/assets/61796f0c-2631-4159-be77-49442abcd1e8)
 
-### **User Details Section:**
+# **User Details Section:**
 
 ![Screenshot (212)](https://github.com/user-attachments/assets/ffdb8ef6-c9e3-4f9b-9f8e-1830dbda1795)
 
-###  **Seat Selection Page:**
+#  **Seat Selection Page:**
 
 ![Screenshot (204)](https://github.com/user-attachments/assets/6de7eda9-6aa0-451c-9880-1b3853776dfa)
 
-### **Summary Page:**
+# **Summary Page:**
 
 ![Screenshot (205)](https://github.com/user-attachments/assets/615cfd77-d5b5-4391-93f9-2cfbc695e2f9)
 
-###  **Checkout Page:**
+#  **Checkout Page:**
 
 ![Screenshot (215)](https://github.com/user-attachments/assets/e42616a0-4121-42d6-be04-2ce091a1eda9)
 
-###  **Success:**
+#  **Success:**
 
 ![Screenshot (206)](https://github.com/user-attachments/assets/adfc5b9c-1d36-47ac-ad0b-7a34b9138747)
 
