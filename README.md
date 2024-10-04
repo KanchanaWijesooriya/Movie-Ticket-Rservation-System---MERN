@@ -6,7 +6,6 @@ Welcome to the Movie Tickets Reservation System! This project is designed to sim
 
 The system also includes an admin control panel for managing movie schedules and other administrative tasks. While not all features are fully functional, the project provides a clear understanding of its intended capabilities. The development process followed agile methodology, and the project includes both frontend and backend APIs.
 
-Contact and Login Pages are not route. But Users' choice they can Rout them on their own choice.
 
 To Run the Program :  [Read Me.pdf](https://github.com/user-attachments/files/16961245/Read.Me.pdf)
 
